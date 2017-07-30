@@ -19,7 +19,7 @@ namespace Dame
         public int PlayerId; //0 Rosu  ;   1 Negru
         Patratel_Inchis Parinte;
         Joc joc;
-    
+    //
 
         public Piesa(int id, Patratel_Inchis P, Joc joc)
         {
